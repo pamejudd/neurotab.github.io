@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: problem.jpg
 category: services
-title: The Problem
+title: Problem
 description: ''
 ---
 

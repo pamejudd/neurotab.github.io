@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: team.png
 category: Services
 title: Tab-Team
 description: ''
