@@ -1,0 +1,13 @@
+---
+layout: default
+img: phones.png
+category: Team
+title: Team
+description: ''
+---
+
+Art Pilacinski – head of the team, coordination, neuropsychological side of the project.
+Greg Chadzynski – documentation, hardware, and software.
+Lucca Hellriegel – hardware and software development, marketing.
+Diana Dascalu – consultant for PR.
+Philipp Geiger – consultant for software development.

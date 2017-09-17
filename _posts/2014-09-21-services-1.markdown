@@ -1,0 +1,18 @@
+---
+layout: default
+img: ipad.png
+category: services
+title: The Problem
+description: ''
+---
+
+Most of neuropsychological testing in
+hospitals is conducted in traditional way
+with the use of pen and paper. Although
+proven, this method of assessment
+requires a lot of human resources and is
+prone to human error. Moreover, test
+reports need to be converted to digital
+form, which in the case of large number of
+patients, is troublesome and time
+consuming.

@@ -1,0 +1,9 @@
+---
+layout: default
+img: ipad.png
+category: The Device
+title: Our Vision
+description: ''
+---
+
+Our aim at NeuroTab is to aid the (neuro)psychologists in their daily work. Weintend to do this by providing a software- hardware based platform in the form of a tablet allowing assessment of neuropsychological condition of the patient. We intend to integrate various peripheral devices for easily adjustable testing and rehabilitation routines, and also to allow monitoring of the patient's progress. Finally, we also intend to let the system collect behavioral data for research purposes, thus making it useful for clinical researchers. The entire platform will be modular, so that adding any new functionality would be simple and could be based on request of our potential customers. Our device will provide the results in a digital form which can be easily included in the patient's documentation.

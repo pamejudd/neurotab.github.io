@@ -1,0 +1,9 @@
+---
+layout: default
+img: phones.png
+category: Competitive Advantage
+title: Competitive Advantage
+description: ''
+---
+
+Our device will make the daily work of neuropsychologists easy and far more efficient. Automatized assessment will eventually allow administering tests with less effort, more precision and less cost by reduced personnel workload. Last but not least, the patients will benefit from our solution, as the cognitive tests will become less boring and more interactive.

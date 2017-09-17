@@ -1,0 +1,9 @@
+---
+layout: default
+img: dog.png
+category: The Prototype
+title: Our Prototype
+description: ''
+---
+
+At the end of the MedTech Startup School we will showcase our minimum viable product and present our idea for a self-sustained business plan. Currently we have build a basic Prototype to demonstrate our idea.

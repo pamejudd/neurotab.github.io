@@ -1,0 +1,25 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://neurotab.com
+title: NeuroTab
+email: main@neurotab.com
+author: NeuroTab Inc.
+description: > # "Our aim at NeuroTab is to aid the (neuro)psychologists in their daily work. We
+intend to do this by providing a software and hardware based platform in the form of a
+tablet allowing assessment of neuropsychological condition of the patient.
+copyright: 'Copyright &copy; 2017 NeuroTab Inc. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
