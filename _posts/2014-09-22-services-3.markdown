@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: Our Prototype
+title: Our Plan
 description: ''
 ---
 
