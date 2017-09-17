@@ -1,7 +1,7 @@
 ---
 layout: default
 img: phones.png
-category: Help
+category: Contact
 title: How you can help
 description: ''
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 img: phones.png
-category: Competitive Advantage
+category: Services
 title: Competitive Advantage
 description: ''
 ---

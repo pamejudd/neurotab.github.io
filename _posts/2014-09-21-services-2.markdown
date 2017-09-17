@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ipad.png
-category: The Device
+category: Services
 title: Our Vision
 description: ''
 ---
